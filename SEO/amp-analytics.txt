@@ -1,0 +1,16 @@
+    <amp-analytics type="gtag" data-credentials="include">
+    <script type="application/json">
+    {
+      "vars" : {
+        "gtag_id": "UA-158068649-1",
+        "config" : {
+          "UA-98262419-1": {
+            "groups": "default"
+          }
+        }
+      }
+    }
+    </script>
+    </amp-analytics>
+
+<link rel="canonical" href="https://netrichesaruba.ga/" />
