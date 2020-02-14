@@ -1,0 +1,29 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "WebSite",
+  "name": "Netriches Aruba - Web Design & SEO Services",
+  "url": "https://netrichesaruba.ga/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://netrichesaruba.ga/{search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Person",
+  "name": "Juny Engelhart",
+  "url": "https://netrichesaruba.ga/",
+  "image": "https://pbs.twimg.com/profile_images/1168095683678806018/ICZTZWoX_400x400.jpg",
+  "sameAs": "https://twitter.com/JUNTECHPC",
+  "jobTitle": "Website Designer",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "JuntechPC"
+  }  
+}
+</script>
