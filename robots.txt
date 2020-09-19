@@ -1,4 +1,2 @@
 User-agent: *
-Allow: /
-Allow: /sitemap.htm
-Sitemap: https://netrichesaruba.ga/sitemap.xml
+Disallow: /cgi-bin

@@ -1,48 +1,17 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<!--  generator="Inspyder Sitemap Creator 5.1.4"  -->
-<!-- Last Updated 2/29/2020 4:28:42 PM -->
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<url>
-	<loc>https://netrichesaruba.ga/</loc>
-	<lastmod>2020-02-29</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-	<xhtml:link rel="alternate"  hreflang="en-aw" href="https://netrichesaruba.ga/netriches-aruba-seo/" />
-</url>
-<url>
-	<loc>https://netrichesaruba.ga/web-design-netriches-aruba.html</loc>
-	<lastmod>2020-02-29</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-</url>
-<url>
-	<loc>https://netrichesaruba.ga/online-marketing-netriches-aruba.html</loc>
-	<lastmod>2020-02-29</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-</url>
-<url>
-	<loc>https://netrichesaruba.ga/static-website-design.html</loc>
-	<lastmod>2020-02-29</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-</url>
-<url>
-	<loc>https://netrichesaruba.ga/seo-services-netriches-aruba.html</loc>
-	<lastmod>2020-02-29</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-</url>
-<url>
-	<loc>https://netrichesaruba.ga/pro-static-website-design.html</loc>
-	<lastmod>2020-02-29</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-</url>
-<url>
-	<loc>https://netrichesaruba.ga/dynamic-website-design.html</loc>
-	<lastmod>2020-02-29</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://www.juntechpc.ga/index.html</loc>
+	</url>
+	<url>
+		<loc>https://www.juntechpc.ga/about-juntechpc.html</loc>
+	</url>
+	<url>
+		<loc>https://www.juntechpc.ga/Contact-juntechpc.html</loc>
+	</url>
+	<url>
+		<loc>https://www.juntechpc.ga/computer-services-Aruba.html</loc>
+	</url>
+	<url>
+		<loc>https://www.juntechpc.ga/JunTechPC-COVID-19.html</loc>
+	</url>
 </urlset>

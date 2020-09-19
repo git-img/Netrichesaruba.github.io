@@ -1,0 +1,29 @@
+freenom 
+
+juntechpc@gmx.com
+
+
+theodorerichardson.ga
+
+Order Confirmation
+Thank you for your order. You will receive a confirmation email shortly.
+
+Your Order Number is: 6990285073
+
+If you have any questions about your order, please open a support ticket from your client area and quote your order number.
+
+
+FTP Details
+Connection details for FTP clients.help
+FTP Username	epiz_24611168
+FTP Password	xmKWAGQFDX1w6RW
+FTP Hostname	ftpupload.net
+FTP Port (optional)	21
+
+Username	epiz_24611168
+Label	Website for junyengelhart.ga
+Main Domain	fb2or1u7.epizy.com
+Status	ACTIVE
+Password	xmKWAGQFDX1w6RW
+Created on	2019-10-09
+

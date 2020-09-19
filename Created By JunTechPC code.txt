@@ -1,0 +1,7 @@
+Created By JunTechPC <a href="https://juntechpc.ga"
+
+The website</a> was made By JunTechPC
+
+Web page was <a href="https://juntechpc.ga" style="color:#aaa;">made by</a> JunTechPC
+
+<a href="https://juntechpc.ga" style="color:#aaa;">The website</a> was made By JunTechPC
